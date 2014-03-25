@@ -1,0 +1,30 @@
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body {
+	padding-top: 10px;
+	background-color: #ffffff;
+}
+
+.bootstrap-select:not ([class*="span"] ):not ([class*="col-"] ):not ([class*="form-control"]
+	) {
+	width: 100%;
+}
+
+.table tbody tr th {
+	background-color: #099;
+	color: #ffffff;
+	padding: 6px 12px;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.428571429;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	border-radius: 4px;
+}
